@@ -1,6 +1,6 @@
 ### Hi Abhishek Here! 👋
 A Data Scientist working in Kochi,Kerala,India
-<img height="32" width="32" src="https://github.com/AbhishekRajendran/AbhishekRajendran/blob/DataAnalysis/original-ff88a2aa29b55f47aed827e9d38e4260.webp" />
+<img height="32" width="40" src="https://github.com/AbhishekRajendran/AbhishekRajendran/blob/DataAnalysis/original-ff88a2aa29b55f47aed827e9d38e4260.webp" />
 - 🔭:chart_with_upwards_trend:Worked on Sales and CRM data retrieving valuable insights
 - Now working on
    + Different types of retail datasets to gain more expertise
