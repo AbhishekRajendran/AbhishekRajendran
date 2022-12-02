@@ -1,5 +1,5 @@
 ### Hi Abhishek Here! 👋
-A Data Scientist working in Kochi,Kerala,:india:India
+A Data Scientist working in Kochi,Kerala,<img height="32" width="32" src="[https://github.com/AbhishekRajendran/AbhishekRajendran/blob/DataAnalysis/Python-logo-notext.svg.webp](https://github.com/AbhishekRajendran/AbhishekRajendran/blob/DataAnalysis/download%20(7).png)" />India
 
 - 🔭:chart_with_upwards_trend:Worked on Sales and CRM data retrieving valuable insights
 - Now working on
