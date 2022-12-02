@@ -6,5 +6,4 @@ Data Scientist
 - 
 - :e-mail: How to reach me: Email: ahishekrajendran2555@gmail.com , Linkedin - https://www.linkedin.com/in/abhishek-r-33912b193/ , Instagram  - a_b_his_he_k
 -  
--->
-https://github-profile-trophy.vercel.app/?username=AbhishekRajendran&theme=dracula
+-->[![trophy](https://github-profile-trophy.vercel.app/?username=AbhishekRajendran&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
