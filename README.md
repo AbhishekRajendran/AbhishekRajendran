@@ -6,8 +6,8 @@ A Data Scientist working in Kochi,Kerala,:india:India
    + Different types of retail datasets to gain more expertise
    + Developing dashboard for sales analysis challenge cases
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/[ICON SLUG].svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/[ICON SLUG].svg" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/gray" />
 
 - :e-mail: How to reach me: Email: ahishekrajendran2555@gmail.com , Linkedin - https://www.linkedin.com/in/abhishek-r-33912b193/ , Instagram  - a_b_his_he_k
 -  
