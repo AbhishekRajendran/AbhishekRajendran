@@ -5,7 +5,10 @@ A Data Scientist working in Kochi,Kerala,:india:India
 - Now working on
    + Different types of retail datasets to gain more expertise
    + Developing dashboard for sales analysis challenge cases
-   + 
+
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/[ICON SLUG].svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/[ICON SLUG].svg" />
+
 - :e-mail: How to reach me: Email: ahishekrajendran2555@gmail.com , Linkedin - https://www.linkedin.com/in/abhishek-r-33912b193/ , Instagram  - a_b_his_he_k
 -  
 [![Hi there I'm Abhishek](https://github-readme-stats.vercel.app/api?username=AbhishekRajendran)](https://github.com/anuraghazra/github-readme-stats)
