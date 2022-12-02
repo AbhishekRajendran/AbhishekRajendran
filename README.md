@@ -11,3 +11,5 @@ A Data Scientist working in Kochi,Kerala,India
 - :e-mail: How to reach me: Email: ahishekrajendran2555@gmail.com , Linkedin - https://www.linkedin.com/in/abhishek-r-33912b193/ , Instagram  - a_b_his_he_k
 -  
 [![Hi there I'm Abhishek](https://github-readme-stats.vercel.app/api?username=AbhishekRajendran)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AbhishekRajendran)](https://github.com/ryo-ma/github-profile-trophy)
