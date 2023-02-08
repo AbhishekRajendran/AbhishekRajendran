@@ -12,4 +12,4 @@ A Data Scientist working in Kochi,Kerala,India
 -  
 [![Hi there I'm Abhishek](https://github-readme-stats.vercel.app/api?username=AbhishekRajendran)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AbhishekRajendran)](https://github.com/ryo-ma/github-profile-trophy)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
