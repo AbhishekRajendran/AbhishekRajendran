@@ -7,6 +7,7 @@ Data analyst
 
 <img height="45" width="45" src="https://github.com/AbhishekRajendran/AbhishekRajendran/blob/DataAnalysis/Python-logo-notext.svg.webp" /> <img height="45" width="45" src="png-transparent-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo-thumbnail.png" /> <img height="45" width="45" src="Microsoft_Office_Excel_(2019–present).svg (1).png" />  <img height="45" width="45" src="image (1).png" /> 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekRajendran&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 - [How to reach me
 
 
