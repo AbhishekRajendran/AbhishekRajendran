@@ -10,6 +10,6 @@ Data analyst
 - [How to reach me
 
 
-<img height="28" width="30" src="Gmail-logo.png" />  Email: goestoabhishek@gmail.com , Linkedin - https://www.linkedin.com/in/abhishek-r-33912b193/ 
+<img height="23" width="30" src="Gmail-logo.png" />  Email: goestoabhishek@gmail.com , Linkedin - https://www.linkedin.com/in/abhishek-r-33912b193/ 
 
 
